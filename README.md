@@ -7,5 +7,5 @@ Find and collect 4 hidden keys all around the castle while avoiding the monster.
 |-------------|:---------:|
 | Move        | WASD keys |
 | Look around | Mouse     |
-| Interact    | Let-click |
+| Interact    | Left-click |
 | Pause/Menu  | Esc       |
